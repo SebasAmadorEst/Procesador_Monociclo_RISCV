@@ -1,0 +1,7 @@
+v 4
+file . "PC_tb.vhd" "c5e80744f8b3ce2d73118ca92e39ebdfd24e74e7" "20261120232036.276":
+  entity pc_tb at 1( 0) + 0 on 13;
+  architecture testbench of pc_tb at 8( 105) + 0 on 14;
+file . "PC.vhd" "c5166a9581b76cabd56b76b4d00cb0b142f8559b" "20261120232036.275":
+  entity pc at 1( 0) + 0 on 11;
+  architecture behavioral of pc at 14( 284) + 0 on 12;

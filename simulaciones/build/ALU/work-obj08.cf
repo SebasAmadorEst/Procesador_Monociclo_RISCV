@@ -1,0 +1,7 @@
+v 4
+file / "/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd" "e360aa3c52398ca33dc465cc008ee94c3cb27280" "20261120235435.898":
+  entity alu_tb at 1( 0) + 0 on 21;
+  architecture testbench of alu_tb at 7( 81) + 0 on 22;
+file / "/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU.vhd" "108711a633047acea6054756a558270788ef606a" "20261120235435.897":
+  entity alu at 1( 0) + 0 on 19;
+  architecture behavioral of alu at 14( 321) + 0 on 20;

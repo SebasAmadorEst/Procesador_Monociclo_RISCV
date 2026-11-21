@@ -1,0 +1,17 @@
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:30:9:@10ns:(report note): OK: ADD
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:39:9:@20ns:(report note): OK: SUB
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:48:9:@30ns:(report note): OK: AND
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:57:9:@40ns:(report note): OK: OR
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:66:9:@50ns:(report note): OK: XOR
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:75:9:@60ns:(report note): OK: SLL
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:84:9:@70ns:(report note): OK: SRL
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:93:9:@80ns:(report note): OK: SRA
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:102:9:@90ns:(report note): OK: SLT
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:111:9:@100ns:(report note): OK: SLTU
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:120:9:@110ns:(report note): OK: SLT falso
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:129:9:@120ns:(report note): OK: SLTU falso
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:138:9:@130ns:(report note): OK: SLT vs SLTU
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:147:9:@140ns:(report note): OK: SLTU vs SLT
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:156:9:@150ns:(report note): OK: SLL shamt bajo
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:165:9:@160ns:(report note): OK: ALUop default
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/ALU/ALU_tb.vhd:167:9:@160ns:(report note): ALU: TODAS LAS 16 PRUEBAS TERMINARON

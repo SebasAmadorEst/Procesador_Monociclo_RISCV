@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.126 (w)1999-2026 BSI
+[*] Sat Nov 21 02:29:00 2026
+[*]
+[dumpfile] "/home/lover/Escritorio/Procesador_Monociclo_RISCV/simulaciones/vcd/BU_tb.vcd"
+[dumpfile_mtime] "Fri Nov 20 23:54:36 2026"
+[dumpfile_size] 2869
+[savefile] "/home/lover/Escritorio/Procesador_Monociclo_RISCV/simulaciones/configuraciones/BU.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-25.867605 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] bu_tb.
+[sst_width] 284
+[signals_width] 102
+[sst_expanded] 1
+[sst_vpaned_height] 158
+@22
+bu_tb.uut.a[31:0]
+bu_tb.uut.b[31:0]
+bu_tb.uut.brop[4:0]
+@28
+bu_tb.uut.nextpcsrc
+[pattern_trace] 1
+[pattern_trace] 0

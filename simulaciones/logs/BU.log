@@ -1,0 +1,19 @@
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:30:9:@10ns:(report note): OK: Secuencial
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:39:9:@20ns:(report note): OK: JAL/JALR
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:48:9:@30ns:(report note): OK: BEQ verdadero
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:57:9:@40ns:(report note): OK: BEQ falso
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:66:9:@50ns:(report note): OK: BNE verdadero
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:75:9:@60ns:(report note): OK: BNE falso
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:84:9:@70ns:(report note): OK: BLT verdadero
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:93:9:@80ns:(report note): OK: BLT falso
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:102:9:@90ns:(report note): OK: BGE verdadero
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:111:9:@100ns:(report note): OK: BGE falso
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:120:9:@110ns:(report note): OK: BLTU verdadero
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:129:9:@120ns:(report note): OK: BLTU falso
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:138:9:@130ns:(report note): OK: BGEU verdadero
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:147:9:@140ns:(report note): OK: BGEU falso
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:156:9:@150ns:(report note): OK: Default
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:165:9:@160ns:(report note): OK: BLT igual
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:174:9:@170ns:(report note): OK: BGE igual
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:183:9:@180ns:(report note): OK: BGEU igual
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/BU/BU_tb.vhd:185:9:@180ns:(report note): BU: TODAS LAS 18 PRUEBAS TERMINARON

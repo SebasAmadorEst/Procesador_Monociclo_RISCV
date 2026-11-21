@@ -1,0 +1,7 @@
+v 4
+file / "/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU.vhd" "720f9aaab5293ca1516b2e4217e2ca89e888e320" "20261120235435.830":
+  entity iu at 1( 0) + 0 on 15;
+  architecture behavioral of iu at 13( 262) + 0 on 16;
+file / "/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd" "ae105e7037ce0225c39689000db0f22649ea6842" "20261120235435.830":
+  entity iu_tb at 1( 0) + 0 on 17;
+  architecture testbench of iu_tb at 8( 105) + 0 on 18;

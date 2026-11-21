@@ -1,0 +1,7 @@
+v 4
+file / "/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/RU/RU_tb.vhd" "0fbf88d78cbaff64e484005f58dc43098476c2a8" "20261120235435.761":
+  entity ru_tb at 1( 0) + 0 on 21;
+  architecture testbench of ru_tb at 8( 105) + 0 on 22;
+file / "/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/RU/RU.vhd" "d07c01d7f1ea254e13b5bc5056b7da5d79fca60d" "20261120235435.761":
+  entity ru at 1( 0) + 0 on 19;
+  architecture behavioral of ru at 18( 489) + 0 on 20;

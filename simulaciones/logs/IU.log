@@ -1,0 +1,11 @@
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:27:9:@10ns:(report note): OK: I ADDI +5
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:34:9:@20ns:(report note): OK: I ADDI -1
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:41:9:@30ns:(report note): OK: I SLLI 3
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:48:9:@40ns:(report note): OK: I SRAI 5
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:55:9:@50ns:(report note): OK: S offset +16
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:62:9:@60ns:(report note): OK: S offset -4
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:69:9:@70ns:(report note): OK: B offset +8
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:76:9:@80ns:(report note): OK: U LUI
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:83:9:@90ns:(report note): OK: J offset 0
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:90:9:@100ns:(report note): OK: Default
+/home/lover/Escritorio/Procesador_Monociclo_RISCV/componentes/IU/IU_tb.vhd:92:9:@100ns:(report note): IU: TODAS LAS 10 PRUEBAS TERMINARON
